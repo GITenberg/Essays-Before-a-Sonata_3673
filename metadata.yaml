@@ -1,0 +1,32 @@
+_repo: Essays-Before-a-Sonata_3673
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ives, Charles
+    alias: Ives, Charles Edward
+    birthdate: 1874
+    deathdate: 1954
+    gutenberg_agent_id: '1258'
+    url: http://www.gutenberg.org/2009/agents/1258
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Ives
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alcott family'
+- !lcsh 'Thoreau, Henry David, 1817-1862'
+- !lcsh 'Ives, Charles, 1874-1954. Sonatas, piano, no. 2'
+- !lcc 'PS'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+- !lcsh 'Music'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864'
+- GITenberg
+tableOfContents: Prologue -- Emerson -- Hawthorne -- "The Alcotts" -- Thoreau -- Epilogue.
+title: Essays Before a Sonata
+url: http://www.gutenberg.org/ebooks/3673
